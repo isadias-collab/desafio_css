@@ -8,3 +8,9 @@ Formulário 🗒️
 Neste código, criei uma página em HTML com um formulário de interação. Nele, o usuário pode preencher dados pessoais, como nome, endereço, bairro, cidade, escrever uma mensagem, escolher modelo e período de trabalho, selecionar um estado da lista e aceitar os termos de uso. Também foram incluídos botões para enviar ou limpar as informações. A parte visual, como cores e fundo, foi feita com CSS.
 
 <img width="311" height="422" alt="image" src="https://github.com/user-attachments/assets/fe5e9118-cf0a-4e2d-8070-e4665da9f7a6" />
+
+______________________________________________________________________________________________________
+
+Neste código, criei uma página em HTML com uma tabela da temporada 21/22 da NBA. Ela contém título, descrição e uma tabela com colunas de posição, times, vitórias e jogos, exibindo três equipes como exemplo. 
+
+<img width="622" height="356" alt="image" src="https://github.com/user-attachments/assets/7afea2ab-8ccf-462a-8a50-754bb1a3696f" />

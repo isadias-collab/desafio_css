@@ -11,6 +11,8 @@ Neste código, criei uma página em HTML com um formulário de interação. Nele
 
 ______________________________________________________________________________________________________
 
+Tabela
+
 Neste código, criei uma página em HTML com uma tabela da temporada 21/22 da NBA. Ela contém título, descrição e uma tabela com colunas de posição, times, vitórias e jogos, exibindo três equipes como exemplo. 
 
 <img width="622" height="356" alt="image" src="https://github.com/user-attachments/assets/7afea2ab-8ccf-462a-8a50-754bb1a3696f" />
